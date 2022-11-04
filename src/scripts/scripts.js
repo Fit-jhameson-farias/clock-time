@@ -2,7 +2,7 @@ let hora = document.querySelector("#txtTime");
 
 function getHours() {
   const options = {
-    timeZone: "America/Sao_Paulo",
+    timeZone: "America/Vancouver",
     hour: "numeric",
     minute: "numeric",
     second: "numeric",
